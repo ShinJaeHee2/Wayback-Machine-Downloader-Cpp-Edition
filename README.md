@@ -10,5 +10,5 @@ work in progress.
 
 # Build requirement
 
-    - [curl](https://curl.se/)
-    - [JSON for Modern C++](https://github.com/nlohmann/json)
+- [curl](https://curl.se/)
+- [JSON for Modern C++](https://github.com/nlohmann/json)
