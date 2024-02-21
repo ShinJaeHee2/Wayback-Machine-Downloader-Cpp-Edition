@@ -4,7 +4,7 @@ Downloads files from [Wayback Machine](https://web.archive.org/) archive URL pat
 
 Work in progress.
 
-**You have yo install Visual C++ Redistributable to run!**
+**You have to install Visual C++ Redistributable to run!**
 
 # Usage
 
