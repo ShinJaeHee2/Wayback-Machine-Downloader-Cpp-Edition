@@ -1,8 +1,10 @@
-# an Wayback Machine Downloader written in C++
+# An Wayback Machine Downloader written in C++
 
-downloads files from [Wayback Machine](https://web.archive.org/) archive URL path.
+Downloads files from [Wayback Machine](https://web.archive.org/) archive URL path.
 
-work in progress.
+Work in progress.
+
+**You have yo install Visual C++ Redistributable to run!**
 
 # Usage
 
@@ -10,5 +12,5 @@ work in progress.
 
 # Build requirement
 
-- [curl](https://curl.se/)
+- [Curl](https://curl.se/)
 - [JSON for Modern C++](https://github.com/nlohmann/json)
